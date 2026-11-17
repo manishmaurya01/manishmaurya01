@@ -6,7 +6,7 @@
   <img src="https://img.shields.io/github/followers/manishmaurya01?label=Followers&style=social" alt="Followers">
 </p>
  <p align="center">
-  <img src="White Minimalist Profile LinkedIn Banner (1).jpg" alt="MANISH KUMAR" width="800" height="auto" style="object-fit: cover;" />
+  <img src="Modern Tech Solutions LinkedIn Banner.png" alt="MANISH KUMAR" width="800" height="auto" style="object-fit: cover;" />
 </p>
 <table>
   <tr>
